@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+
+}
+
+span{
+    
+    background-color:rgb(206, 219, 236);
+    width: 200px;
+    height: 100px;
+    overflow:hidden;
+    float: left; 
+    margin: 4px;
+    
+  
+}
+
+
+
+.container1  {
+    background-color: rgb(238, 234, 214);
+    width: 700px;
+    height: 500px;
+    border-right: 2px solid;
+     
+}
+p{
+    width: 690px;
+    height: 100px;
+    overflow:auto;
+    background-color: rgb(238, 234, 214);
+    border-top: 2px solid ;
+    border-bottom: 2px solid ;
+    float: left;
+    margin: 4px;
+   
+    
+}
+
+
+  
+    
+     

@@ -1,0 +1,21 @@
+p1{
+   color: blue; 
+}
+a{
+    color: coral;
+}
+span{
+    color: rgb(154, 30, 30);
+    background-color: yellow ;
+}
+div{
+    display: inline-block;
+    color: red;
+}
+label {
+    list-style-type: none;
+}
+h2{
+    border-bottom: 2px solid gray ;
+    padding-bottom: 20px;
+}
